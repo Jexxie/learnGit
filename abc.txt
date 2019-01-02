@@ -1,3 +1,4 @@
 hello world
 Creating a new branch is quick and simple.
 --no-ff merge test
+there is a bug to be fixed
